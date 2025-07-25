@@ -8,7 +8,7 @@
 
 AG-VPReID.VIR is the first aerial-ground cross-modality video-based person Re-ID dataset, capturing 1,837 identities across 4,861 tracklets (124,855 frames) using both UAV-mounted and fixed CCTV cameras in RGB and infrared modalities.
 
-[paper](#) | [dataset](https://drive.google.com/drive/folders/1Iy814PqWjwIZcv6CZpieFju-Dop9Y2G7?usp=share_link)
+[paper](https://arxiv.org/abs/2507.17995) | [dataset](https://drive.google.com/drive/folders/1Iy814PqWjwIZcv6CZpieFju-Dop9Y2G7?usp=share_link)
 </div>
 
 ## Key Features
